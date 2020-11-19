@@ -8,7 +8,7 @@
 This is for Groundspeed Analytics Take Home Data Challenge 2020. The main task is to design a data structure that
 holds both detailed personal information and policy level metrics in a health insurance setting.
 
-Author: Tingjun Man
+Author: Tingjun
 Date: 02/09/2020
 
 '''
